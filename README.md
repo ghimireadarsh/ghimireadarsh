@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh.svg)](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fghimireadarsh%2Fhit-counter)
-
-**ghimireadarsh/ghimireadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**ghimireadarsh/ghimireadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some info about me to get you started:
 
