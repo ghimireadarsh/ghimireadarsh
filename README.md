@@ -1,7 +1,7 @@
 ![Sasuke Sharigan](https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif)
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh.svg)](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fghimireadarsh%2Fhit-counter)
+[![HitCount](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh.svg)](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh) 
 <!-- 
 **ghimireadarsh/ghimireadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
