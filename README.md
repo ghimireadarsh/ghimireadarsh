@@ -15,3 +15,7 @@ Here are some info about me to get you started:
 - 📫 How to reach me: @ghimireadarsh (Github) 
 - ⚡ Fun fact: I love cricket
 
+
+[![Github Stats By pierpaolo28](https://github-readme-stats.vercel.app/api?username=pierpaolo28&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+[![Github Langs By Adarsh Ghimire](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireadarsh&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+
