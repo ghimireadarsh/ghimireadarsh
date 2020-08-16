@@ -1,8 +1,8 @@
 ![Sasuke Sharigan](https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif)
 ### Hi there 👋
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub followers](https://img.shields.io/github/followers/ghimireadarsh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ghimireadarsh?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adarshghimire.svg?style=social)](https://twitter.com/adarshghimire)  
+[![GitHub followers](https://img.shields.io/github/followers/ghimireadarsh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ghimireadarsh?tab=followers)
 [![HitCount](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh.svg)](http://hits.dwyl.com/ghimireadarsh/ghimireadarsh) 
 <!-- 
 **ghimireadarsh/ghimireadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
