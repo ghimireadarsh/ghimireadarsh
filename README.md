@@ -10,12 +10,12 @@
 
 Here are some info about me to get you started:
 
-- 🔭 I’m currently working on Hybrid Cloud and Machine Learning
+- 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning how to grow everyday
 - 👯 I’m looking to collaborate on NLP and Machine Learning Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @ghimireadarsh (Github) 
+- 💬 Ask me about Machine learning, Deep learning, NLP, Big data (Hortonworks and Cloudera) and, Hybrid Cloud(Nutanix)
+- 📫 How to reach me: @ghimireadarsh (Github), adarshghimire5@gmail.com 
 - ⚡ Fun fact: I love cricket
 
 
