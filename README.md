@@ -19,8 +19,8 @@ Here are some info about me to get you started:
 - ⚡ Fun fact: I love cricket
 
 
-[![Github Stats By Adarsh Ghimire](https://github-readme-stats.vercel.app/api?username=ghimireadarsh&show_icons=true&hide=prs&cache_seconds=86400&theme=synthwave)]()
-[![Github Langs By Adarsh Ghimire](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireadarsh&layout=compact&show_icons=true&cache_seconds=86400&theme=synthwave)]()
+[![Github Stats By Adarsh Ghimire](https://github-readme-stats.vercel.app/api?username=ghimireadarsh&show_icons=true&hide=prs&cache_seconds=86400&theme=great-gatsby)]()
+[![Github Langs By Adarsh Ghimire](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireadarsh&layout=compact&show_icons=true&cache_seconds=86400&theme=great-gatsby)]()
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adarsh-ghimire-0a1a51a6/
