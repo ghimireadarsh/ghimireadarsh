@@ -6,7 +6,7 @@
 
 :computer:  I'm a Computer and Electrical Engineer
 
-:book: Research Area: Visual Trackers, Deep Learning, Machine Learning
+:book: Research Area: Visual Trackers, Computer Vision, Image Processing, Deep Learning, Machine Learning
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/adarshghimire.svg?style=social)](https://twitter.com/adarshghimire)  -->
 
